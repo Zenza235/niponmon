@@ -18,16 +18,16 @@ jobs:
 
       - name: Create mod-client.zip
         run: |
-          zip -r mod-client.zip mod-client
+          zip -r niponmon-client.zip niponmon-client
 
       - name: Create mod-server.zip
         run: |
-          zip -r mod-server.zip mod-server
+          zip -r niponmon-server.zip niponmon-server
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           generate_release_notes: true
           files: |
-            mod-client.zip
-            mod-server.zip
+            niponmon-client.zip
+            niponmon-server.zip
