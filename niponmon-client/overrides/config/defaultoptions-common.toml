@@ -1,0 +1,7 @@
+#The default difficulty selected for newly created worlds.
+#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
+defaultDifficulty = "NORMAL"
+#Resource pack IDs to have enabled by default on the first run.
+defaultResourcePacks = ["vanilla", "fabric", "mod_resources", "moonlight:merged_pack", "vanillabackport:freshly_animated", "file/AllTheMons [R3.5.1].zip", "mod/cobblemon:resourcepacks/regionbiasforms", "mod/mega_showdown:resourcepacks/regionbiasmsd", "file/RCT Trainers+ [1.6] v2.1.zip", "mod/knowlogy:resourcepacks/1.0.0_minecraft", "mod/knowlogy:resourcepacks/1.21.0_tricky_trials", "mod/cobblemon_knowlogy:resourcepacks/cobblemon", "mod/cobblemon_knowlogy:resourcepacks/cobblemon_1.7", "mod/cobblemon_knowlogy:resourcepacks/cobblemonpokenav", "openloader/C:\\Users\\paolo\\AppData\\Roaming\\PrismLauncher\\instances\\niponmon\\minecraft\\config\\openloader\\packs\\MelloMons.zip"]
+#Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
+lockDifficulty = false
