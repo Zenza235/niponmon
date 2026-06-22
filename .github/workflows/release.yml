@@ -16,13 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create mod-client.zip
+      - name: Create client modpack zip
         run: |
-          zip -r niponmon-client.zip niponmon-client
+          cd niponmon-client
+          zip -r ../niponmon-client.zip .
 
-      - name: Create mod-server.zip
+      - name: Create server modpack zip
         run: |
-          zip -r niponmon-server.zip niponmon-server
+          cd niponmon-server
+          zip -r ../niponmon-server.zip .
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
