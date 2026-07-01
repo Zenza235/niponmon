@@ -15,7 +15,7 @@ earlyWindowProvider = "fmlearlywindow"
 #Early window width
 earlyWindowWidth = 1920
 #Early window height
-earlyWindowHeight = 1049
+earlyWindowHeight = 1009
 #Early window framebuffer scale
 earlyWindowFBScale = 1
 #Early window starts maximized

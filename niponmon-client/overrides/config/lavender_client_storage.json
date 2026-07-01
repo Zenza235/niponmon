@@ -3,6 +3,9 @@
   "opened_books": {
     "ff4135e3-34c1-46a3-9a03-3e83e5282d6a": [
       "knowlogy:knowlogy_book"
+    ],
+    "ffacf950-2974-4c60-9243-3ee8477f8d9e": [
+      "knowlogy:knowlogy_book"
     ]
   },
   "viewed_entries": {
@@ -12,6 +15,12 @@
         "cobblemon:campfire_pot",
         "cobblemon:ultra_ball",
         "cobblemon:healing_machine"
+      ]
+    },
+    "ffacf950-2974-4c60-9243-3ee8477f8d9e": {
+      "knowlogy:knowlogy_book": [
+        "cobblemon:pokemon_center",
+        "cobblemon:nurse_villager"
       ]
     }
   }

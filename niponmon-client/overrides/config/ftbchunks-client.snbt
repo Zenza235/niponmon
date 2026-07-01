@@ -128,7 +128,7 @@
 		
 		# Enable minimap
 		# Default: true
-		enabled: false
+		enabled: true
 		
 		# Show entities on minimap
 		# Default: true
@@ -138,85 +138,93 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:husk": true
-			"minecraft:drowned": true
-			"minecraft:armadillo": true
-			"minecraft:bat": true
-			"minecraft:rabbit": true
-			"minecraft:sulfur_cube": true
-			"cataclysm:symbiocto": true
-			"minecraft:bogged": true
-			"cataclysm:clawdian": true
-			"minecraft:frog": true
-			"minecraft:parrot": true
-			"minecraft:skeleton": true
-			"minecraft:sheep": true
-			"minecraft:cave_spider": true
-			"cataclysm:scylla": true
-			"minecraft:zombie": true
-			"cataclysm:cindaria": true
-			"cobblemon:npc": true
-			"minecraft:horse": true
-			"minecraft:turtle": true
-			"cataclysm:draugr": true
-			"minecraft:llama": true
-			"yungscavebiomes:ice_cube": true
-			"yungscavebiomes:sand_snapper": true
-			"minecraft:slime": true
-			"minecraft:tropical_fish": false
-			"minecraft:enderman": true
-			"minecraft:wolf": true
-			"minecraft:vindicator": true
-			"minecraft:cat": true
-			"minecraft:pig": true
-			"cobblemon:pokemon": true
-			"minecraft:pillager": true
-			"cataclysm:aptrgangr": true
-			"cataclysm:maledictus": true
-			"minecraft:wither_skeleton": true
-			"cataclysm:the_leviathan": true
-			"minecraft:stray": true
-			"minecraft:villager": true
 			"minecraft:cow": true
-			"minecraft:ocelot": true
-			"minecraft:salmon": false
-			"minecraft:zombie_villager": true
-			"minecraft:bee": true
-			"minecraft:ravager": true
-			"cataclysm:drowned_host": true
 			"cataclysm:netherite_monstrosity": true
-			"minecraft:glow_squid": true
-			"cataclysm:hippocamtus": true
-			"minecraft:cod": false
-			"minecraft:fox": true
-			"cataclysm:deepling_warlock": true
-			"cataclysm:deepling_angler": true
-			"cataclysm:lionfish": true
+			"quark:toretoise": true
 			"cataclysm:urchinkin": true
 			"cataclysm:ancient_remnant": true
-			"minecraft:camel": true
-			"minecraft:strider": true
-			"minecraft:pufferfish": false
+			"cataclysm:draugr": true
+			"minecraft:drowned": true
+			"quark:crab": true
+			"cataclysm:the_leviathan": true
+			"quark:forgotten": true
+			"cataclysm:clawdian": true
+			"yungscavebiomes:ice_cube": true
 			"cataclysm:royal_draugr": true
-			"minecraft:squid": true
+			"minecraft:bee": true
+			"minecraft:cod": false
+			"cataclysm:aptrgangr": true
+			"minecraft:parrot": true
+			"minecraft:villager": true
+			"cataclysm:scylla": true
+			"cataclysm:maledictus": true
+			"cobblemon:pokemon": true
 			"minecraft:chicken": true
-			"cataclysm:deepling_priest": true
-			"cataclysm:netherite_ministrosity": true
-			"cataclysm:deepling_brute": true
-			"cataclysm:elite_draugr": true
-			"minecraft:dolphin": true
-			"artifacts:mimic": true
-			"minecraft:donkey": true
-			"cataclysm:deepling": true
-			"minecraft:iron_golem": true
-			"minecraft:spider": true
-			"minecraft:panda": true
+			"minecraft:pufferfish": false
+			"minecraft:skeleton": true
 			"minecraft:axolotl": true
-			"cataclysm:coralssus": true
+			"minecraft:husk": true
 			"minecraft:creeper": true
-			"minecraft:polar_bear": true
+			"minecraft:rabbit": true
+			"minecraft:panda": true
+			"minecraft:camel": true
+			"minecraft:bogged": true
+			"minecraft:turtle": true
+			"minecraft:sheep": true
+			"cataclysm:deepling_warlock": true
+			"minecraft:fox": true
+			"minecraft:strider": true
+			"minecraft:salmon": false
+			"minecraft:pillager": true
+			"yungscavebiomes:sand_snapper": true
+			"minecraft:wither_skeleton": true
+			"minecraft:ocelot": true
+			"minecraft:slime": true
 			"cataclysm:amethyst_crab": true
+			"cataclysm:deepling_angler": true
+			"minecraft:polar_bear": true
+			"minecraft:llama": true
+			"minecraft:armadillo": true
+			"minecraft:cat": true
+			"minecraft:horse": true
+			"cataclysm:wadjet": true
+			"cataclysm:netherite_ministrosity": true
+			"minecraft:ravager": true
+			"cataclysm:cindaria": true
+			"cataclysm:elite_draugr": true
 			"minecraft:witch": true
+			"minecraft:pig": true
+			"cataclysm:hippocamtus": true
+			"minecraft:zombie_villager": true
+			"cataclysm:koboleton": true
+			"cobblemon:npc": true
+			"cataclysm:drowned_host": true
+			"minecraft:iron_golem": true
+			"cataclysm:lionfish": true
+			"minecraft:bat": true
+			"minecraft:zombie": true
+			"cataclysm:kobolediator": true
+			"minecraft:glow_squid": true
+			"cataclysm:coralssus": true
+			"minecraft:dolphin": true
+			"cataclysm:deepling_priest": true
+			"quark:shiba": true
+			"cataclysm:deepling": true
+			"minecraft:cave_spider": true
+			"cataclysm:symbiocto": true
+			"minecraft:donkey": true
+			"cataclysm:deepling_brute": true
+			"quark:stoneling": true
+			"minecraft:sulfur_cube": true
+			"minecraft:enderman": true
+			"artifacts:mimic": true
+			"minecraft:wolf": true
+			"minecraft:spider": true
+			"minecraft:frog": true
+			"minecraft:stray": true
+			"minecraft:tropical_fish": false
+			"minecraft:vindicator": true
+			"minecraft:squid": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
